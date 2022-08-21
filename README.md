@@ -5,5 +5,5 @@
   <b>#</b>
   <a href="">Facebook</a>
   <b>#</b>
-  <a href="">Tweeter</a>
+  <a href="">Twitter</a>
 </p>
