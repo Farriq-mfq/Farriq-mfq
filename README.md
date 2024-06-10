@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,typescript,javascript,dart,mysql,postgresql)](https://skillicons.dev)
 
 ### Freamwork
-[![My Skills](https://skillicons.dev/icons?i=laravel,express,nestjs,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,express,nestjs,flutter,vue,react)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,arduino)](https://skillicons.dev)
