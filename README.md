@@ -21,6 +21,3 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Farriq-mfq&theme=light&show_icons=true)](https://github.com/Farriq-mfq)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Setiawan007&hide=TeX&layout=compact&theme=light)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Farriq-mfq)
-
