@@ -17,7 +17,3 @@
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,arduino)](https://skillicons.dev)
-
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Farriq-mfq&theme=light&show_icons=true)](https://github.com/Farriq-mfq)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Setiawan007&hide=TeX&layout=compact&theme=light)
